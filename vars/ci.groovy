@@ -23,7 +23,6 @@ def call(){
                 }
             }
 
-
             stage('Build') {
                 steps {
                     echo 'Build'
